@@ -1,1 +1,0 @@
-export { ReactComponent as DevKittyLogo } from './devKitty.svg';
